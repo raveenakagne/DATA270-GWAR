@@ -50,10 +50,6 @@ Accurate inventory management is essential for robotics-driven data warehouses. 
 - [Amazon Bin Image Dataset on AWS](https://registry.opendata.aws/amazon-bin-imagery)  
 - [Project Repository](https://github.com/raveenakagne/DATA270-GWAR.git)  
 
-## 👩‍💻 Author
-**Raveena Kagne**  
-📎 [LinkedIn](https://www.linkedin.com/in/raveenakagne)  
-
 ---
 
 📌 _This project demonstrates how image processing and machine learning can revolutionize warehouse automation by enabling accurate, scalable inventory verification._
